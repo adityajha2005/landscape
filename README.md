@@ -69,5 +69,5 @@ The contents of this repository are licensed under either the BSD 3-clause licen
     <a href="https://x.com/jsonschema" target="blank" style="margin-right: 5px;">
   <img align="center" src="https://cdn.simpleicons.org/x/twitter" alt="JSON Schema X" height="30" width="40" /></a>
     <a href="https://www.linkedin.com/company/jsonschema" target="blank" style="margin-right: 5px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="JSON Schema LinkedIn" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/@JSONSchemaOrgOfficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="JSON Schema YouTube" height="30" width="40" /></a>
+    <a href="https://www.youtube.com/@JSONSchemaOrgOfficial" target="blank" style="margin-right: 5px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="JSON Schema YouTube" height="30" width="40" /></a>
 </p>
